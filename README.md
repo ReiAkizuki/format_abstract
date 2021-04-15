@@ -28,6 +28,6 @@ id3
 ```
 
 ## versions
-Python				3.8.5
-pandas              1.1.1
-PySimpleGUI         4.29.0
+Python				3.8.5<br>
+pandas              1.1.1<br>
+PySimpleGUI         4.29.0<br>
